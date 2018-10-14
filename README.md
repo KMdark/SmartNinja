@@ -1,0 +1,2 @@
+# SmartNinja
+vjezbe sa kursa
